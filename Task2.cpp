@@ -39,7 +39,7 @@ double getNumberInput(const string& prompt) {
 }
 
 int main() {
-    cout<<"Task-2"DIGITAL CALCULATOR"<<endl<<"Made by Ashish"<<endl;
+    cout<<"Task-2:DIGITAL CALCULATOR"<<endl<<"Made by Ashish"<<endl;
     int choice;
     double num1, num2, result;
 
